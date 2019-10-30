@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\ConsoleX.csproj",
-        "projectName": "ConsoleX",
+        "projectName": "System.ConsoleX",
         "projectPath": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\ConsoleX.csproj",
         "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\obj\\",

@@ -13,6 +13,7 @@
     <PackageTags>Console ConsoleApp Write Table Title</PackageTags>
     <NeutralLanguage>en-GB</NeutralLanguage>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>System.ConsoleX</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
