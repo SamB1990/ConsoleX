@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>System</RootNamespace>
+    <LangVersion>8</LangVersion>
+    <Authors>Sam Blundell</Authors>
+    <Company>Sam Blundell Software</Company>
+    <Description>ConsoleX is a project looking to extend the standard System.Console to make it easier use when building consoleApps and tools using System.Console</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/SamB1990/ConsoleX</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>Console ConsoleApp Write Table Title</PackageTags>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IntegerHelper" Version="1.0.0" />
+    <PackageReference Include="StringHelper.Extension" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

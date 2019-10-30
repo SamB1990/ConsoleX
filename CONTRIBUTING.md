@@ -18,7 +18,7 @@ The guide is divided into two main pieces:
 For guidance on how to contribute to github projects please read [How to Contribute to Open Source]([https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/))
 
 ## What is ConsoleX
-ConsoleX is a project looking to extend the standard System.Console to give easier use when building consoleApps and tools using System.Console.
+ConsoleX is a project looking to extend the standard System.Console to make it easier use when building consoleApps and tools using System.Console.
 
 ## Issues
 

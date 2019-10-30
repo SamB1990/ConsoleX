@@ -1,0 +1,16 @@
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\bin\Debug\netstandard2.1\ConsoleX.deps.json
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\bin\Debug\netstandard2.1\ConsoleX.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\bin\Debug\netstandard2.1\ConsoleX.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\obj\Debug\netstandard2.1\ConsoleX.AssemblyInfoInputs.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\obj\Debug\netstandard2.1\ConsoleX.AssemblyInfo.cs
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\obj\Debug\netstandard2.1\ConsoleX.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\obj\Debug\netstandard2.1\ConsoleX.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\ConsoleX\obj\Debug\netstandard2.1\ConsoleX.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\ConsoleX\src\bin\Debug\netstandard2.1\ConsoleX.deps.json
+C:\Users\sam\source\repos\ConsoleX\src\bin\Debug\netstandard2.1\ConsoleX.dll
+C:\Users\sam\source\repos\ConsoleX\src\bin\Debug\netstandard2.1\ConsoleX.pdb
+C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.1\ConsoleX.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.1\ConsoleX.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.1\ConsoleX.AssemblyInfo.cs
+C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.1\ConsoleX.dll
+C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.1\ConsoleX.pdb

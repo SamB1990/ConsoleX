@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ConsoleX/1.0.0": {
+        "dependencies": {
+          "IntegerHelper": "1.0.0",
+          "StringHelper.Extension": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleX.dll": {}
+        }
+      },
+      "IntegerHelper/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/IntegerHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StringHelper.Extension/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/StringHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegerHelper/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s1M5a/MVX05DhuSnZrhgCzeM6bAH2LXqWK041GEGk6n66MM9lwi5ewaAUkQYJKvXngTLT8zUusMrXev0YYE2wg==",
+      "path": "integerhelper/1.0.0",
+      "hashPath": "integerhelper.1.0.0.nupkg.sha512"
+    },
+    "StringHelper.Extension/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-02zzMHyPYPVJrV9JSl0YIgoqMYTN6S5+iFYP5g/HwFPPQcsTwQ2oPKUGQltBSgAJWdL+Pm9HL6xwYooqtF6l5g==",
+      "path": "stringhelper.extension/1.0.0",
+      "hashPath": "stringhelper.extension.1.0.0.nupkg.sha512"
+    }
+  }
+}
