@@ -7,11 +7,12 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "ConsoleX/1.0.0": {
+      "ConsoleX/1.0.1": {
         "dependencies": {
           "IntegerHelper": "1.0.0",
           "NETStandard.Library": "2.0.3",
-          "StringHelper.Extension": "1.0.0"
+          "StringHelper.Extension": "1.0.0",
+          "Console.CommandHandler.Abstractions": "1.0.0.0"
         },
         "runtime": {
           "ConsoleX.dll": {}
@@ -38,11 +39,19 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Console.CommandHandler.Abstractions/1.0.0.0": {
+        "runtime": {
+          "Console.CommandHandler.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
   "libraries": {
-    "ConsoleX/1.0.0": {
+    "ConsoleX/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -74,6 +83,11 @@
       "sha512": "sha512-02zzMHyPYPVJrV9JSl0YIgoqMYTN6S5+iFYP5g/HwFPPQcsTwQ2oPKUGQltBSgAJWdL+Pm9HL6xwYooqtF6l5g==",
       "path": "stringhelper.extension/1.0.0",
       "hashPath": "stringhelper.extension.1.0.0.nupkg.sha512"
+    },
+    "Console.CommandHandler.Abstractions/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -14,9 +14,13 @@
     <NeutralLanguage>en-GB</NeutralLanguage>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Sys.ConsoleX</PackageId>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Copyright>Copyright (c) 2019 Sam Blundell</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Console.CommandHandler.Primitives" Version="1.0.0" />
     <PackageReference Include="IntegerHelper" Version="1.0.0" />
     <PackageReference Include="StringHelper.Extension" Version="1.0.0" />
   </ItemGroup>

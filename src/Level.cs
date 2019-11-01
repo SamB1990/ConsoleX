@@ -4,7 +4,7 @@
     {
         public enum LogLevel
         {
-            debug = 3,
+            Debug = 3,
             Verbose = 2,
             basic = 1,
             none = 0
@@ -13,7 +13,7 @@
         public static LogLevel DefaultSuccessLogLevel { get; set; } = LogLevel.Verbose;
         public static LogLevel DefaultInfoLogLevel { get; set; } = LogLevel.Verbose;
         public static LogLevel DefaultWarningLogLevel { get; set; } = LogLevel.Verbose;
-        public static LogLevel DefaultErrorLogLevel { get; set; } = LogLevel.debug;
+        public static LogLevel DefaultErrorLogLevel { get; set; } = LogLevel.Debug;
 
         private static LogLevel _loggerLevel = LogLevel.basic;
 

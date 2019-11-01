@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sys.ConsoleX</id>
+    <version>1.0.1</version>
+    <authors>Sam Blundell</authors>
+    <owners>Sam Blundell</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>ConsoleX is a project looking to extend the standard System.Console to make it easier use when building consoleApps and tools using System.Console</description>
+    <copyright>Copyright (c) 2019 Sam Blundell</copyright>
+    <tags>Console ConsoleApp Write Table Title</tags>
+    <repository type="github" url="https://github.com/SamB1990/ConsoleX" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Console.CommandHandler.Primitives" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="IntegerHelper" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="StringHelper.Extension" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sam\source\repos\ConsoleX\src\bin\Release\netstandard2.0\ConsoleX.dll" target="lib\netstandard2.0\ConsoleX.dll" />
+    <file src="C:\Users\sam\source\repos\ConsoleX\LICENSE" target="LICENSE" />
+  </files>
+</package>
