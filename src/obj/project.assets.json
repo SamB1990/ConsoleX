@@ -2,6 +2,27 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "Console.CommandHandler.Abstractions/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Console.CommandHandler.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Console.CommandHandler.Abstractions.dll": {}
+        }
+      },
+      "Console.CommandHandler.Primitives/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Console.CommandHandler.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Console.CommandHandler.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Console.CommandHandler.Primitives.dll": {}
+        }
+      },
       "IntegerHelper/1.0.0": {
         "type": "package",
         "compile": {
@@ -47,6 +68,32 @@
     }
   },
   "libraries": {
+    "Console.CommandHandler.Abstractions/1.0.0": {
+      "sha512": "25ywSafyVShIXgZV6up/bkrTMvP4VPcPrxMbJkuwNyNiAvZFdEbecoGhWLDms8heLa5gzOdSWlvTmOYPf9VAmw==",
+      "type": "package",
+      "path": "console.commandhandler.abstractions/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "console.commandhandler.abstractions.1.0.0.nupkg.sha512",
+        "console.commandhandler.abstractions.nuspec",
+        "lib/netstandard2.0/Console.CommandHandler.Abstractions.dll"
+      ]
+    },
+    "Console.CommandHandler.Primitives/1.0.0": {
+      "sha512": "7iM3ps1h9ckqQhA9wuPeGD6JkxkE1utICGyUnAqfpZMo2iigtG8JDKqEU/BKu85lNuqR22SYUcEnQ9IRX2qAvw==",
+      "type": "package",
+      "path": "console.commandhandler.primitives/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "console.commandhandler.primitives.1.0.0.nupkg.sha512",
+        "console.commandhandler.primitives.nuspec",
+        "lib/netstandard2.0/Console.CommandHandler.Primitives.dll"
+      ]
+    },
     "IntegerHelper/1.0.0": {
       "sha512": "s1M5a/MVX05DhuSnZrhgCzeM6bAH2LXqWK041GEGk6n66MM9lwi5ewaAUkQYJKvXngTLT8zUusMrXev0YYE2wg==",
       "type": "package",
@@ -217,6 +264,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Console.CommandHandler.Primitives >= 1.0.0",
       "IntegerHelper >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "StringHelper.Extension >= 1.0.0"
@@ -228,7 +276,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\ConsoleX.csproj",
       "projectName": "Sys.ConsoleX",
@@ -266,6 +314,10 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Console.CommandHandler.Primitives": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "IntegerHelper": {
             "target": "Package",
             "version": "[1.0.0, )"
