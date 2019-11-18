@@ -6,6 +6,3 @@ C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.0\ConsoleX.Assembl
 C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.0\ConsoleX.AssemblyInfo.cs
 C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.0\ConsoleX.dll
 C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.0\ConsoleX.pdb
-C:\Users\sam\source\repos\ConsoleX\src\obj\Debug\netstandard2.0\ConsoleX.csproj.CopyComplete
-C:\Users\sam\Source\Repos\ConsoleX\src\bin\Debug\netstandard2.0\Console.CommandHandler.Abstractions.dll
-C:\Users\sam\Source\Repos\ConsoleX\src\bin\Debug\netstandard2.0\Console.CommandHandler.Abstractions.pdb
