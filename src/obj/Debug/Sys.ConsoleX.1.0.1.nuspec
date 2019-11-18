@@ -14,13 +14,14 @@
     <repository type="github" url="https://github.com/SamB1990/ConsoleX" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
+        <dependency id="Console.CommandHandler.Primitives" version="1.0.0" exclude="Build,Analyzers" />
         <dependency id="IntegerHelper" version="1.0.0" exclude="Build,Analyzers" />
         <dependency id="StringHelper.Extension" version="1.0.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\sam\Source\Repos\ConsoleX\src\bin\Debug\netstandard2.0\ConsoleX.dll" target="lib\netstandard2.0\ConsoleX.dll" />
-    <file src="C:\Users\sam\Source\Repos\ConsoleX\LICENSE" target="LICENSE" />
+    <file src="C:\Users\sam\source\repos\ConsoleX\src\bin\Debug\netstandard2.0\ConsoleX.dll" target="lib\netstandard2.0\ConsoleX.dll" />
+    <file src="C:\Users\sam\source\repos\ConsoleX\LICENSE" target="LICENSE" />
   </files>
 </package>
