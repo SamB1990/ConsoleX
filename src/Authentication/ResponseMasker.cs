@@ -29,6 +29,8 @@ namespace System
                 }
             } while (true);
 
+            Console.WriteLine();
+
             return response;
         }
     }

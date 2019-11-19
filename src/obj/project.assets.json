@@ -276,13 +276,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\ConsoleX.csproj",
+      "projectUniqueName": "C:\\Users\\sam\\Source\\Repos\\ConsoleX\\src\\ConsoleX.csproj",
       "projectName": "Sys.ConsoleX",
-      "projectPath": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\ConsoleX.csproj",
+      "projectPath": "C:\\Users\\sam\\Source\\Repos\\ConsoleX\\src\\ConsoleX.csproj",
       "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sam\\source\\repos\\ConsoleX\\src\\obj\\",
+      "outputPath": "C:\\Users\\sam\\Source\\Repos\\ConsoleX\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
