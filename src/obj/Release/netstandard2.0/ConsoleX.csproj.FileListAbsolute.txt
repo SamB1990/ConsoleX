@@ -5,3 +5,4 @@ C:\Users\sam\Source\Repos\ConsoleX\src\obj\Release\netstandard2.0\ConsoleX.Assem
 C:\Users\sam\Source\Repos\ConsoleX\src\obj\Release\netstandard2.0\ConsoleX.AssemblyInfo.cs
 C:\Users\sam\Source\Repos\ConsoleX\src\obj\Release\netstandard2.0\ConsoleX.dll
 C:\Users\sam\Source\Repos\ConsoleX\src\obj\Release\netstandard2.0\ConsoleX.pdb
+C:\Users\sam\Source\Repos\ConsoleX\src\obj\Release\netstandard2.0\ConsoleX.csprojAssemblyReference.cache

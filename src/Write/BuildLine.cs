@@ -7,11 +7,11 @@ namespace System
         {
             if (ShowStatus)
             {
-                message = $"{status.GetStatusText()} {message}";
+                message = $"{status.GetStatusText()} {message}".Trim();
             }
             if (ShowTime)
             {
-                message = $"{DateTime.Now.ToString(TimeFormat)} {message}";
+                message = $"{DateTime.Now.ToString(TimeFormat)} {message}".Trim();
             }
 
             return message;
